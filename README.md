@@ -1,2 +1,4 @@
 # ra2581392323036
-Repositório do aluno PAULO ALEXANDRE BUENO.
+### Aluno: Paulo Alexandre Bueno
+### Curso: Desenvolvimento de Software Multiplataforma
+### Turma: 4º Semestre de 2025.
