@@ -28,16 +28,9 @@ Algumas das tecnologias que utilizo:
 
 1. **Njord**  
    Plataforma de monitoramento meteorológico do Lago de Furnas. Desenvolvido com foco educacional, simulando uma aplicação real para análise de dados climáticos.  
-   ![Njord](img/njord.png)
 
 2. **Ceres**  
    Site para nutrição e hábitos alimentares. Plataforma intuitiva que auxilia os usuários a melhorar seus hábitos alimentares.  
-   ![Ceres](img/ceres.png)
-
-3. **Projeto 3**  
-   [Descrição resumida do Projeto 3]  
-   ![Projeto 3](img/projeto3.png)
-
 ---
 
 ## 🌙 Dark Mode
